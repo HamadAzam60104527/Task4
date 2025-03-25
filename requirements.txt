@@ -1,5 +1,7 @@
 streamlit
 numpy
+scikit-learn
+scipy
 gensim
 nltk
-scikit-learn
+
